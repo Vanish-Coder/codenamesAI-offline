@@ -1,3 +1,6 @@
+#This is not necessarily AI in the sense of ChatGPT/Gemini. Rather it uses Sentence Transformers (https://sbert.net/), which creates mathemtical vector representations
+#of all the words. It then runs a bunch of mathmetical calclations determiend by a LLM (specifically a NLP) and returns a bunch of best matches for the specific usecase.
+
 import json
 import numpy as np
 from sentence_transformers import SentenceTransformer
