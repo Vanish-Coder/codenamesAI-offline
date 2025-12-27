@@ -3,4 +3,4 @@
 ### Link to the official game (by CGE): [https://www.czechgames.com/games/codenames#downloads](https://codenames.game/)
 _____________________________________________________________________________________________________________________________________________________________
 
-Instructions and more are being added shortly.
+Instructions and more are being added shortly (will be out by 12/30/25).
